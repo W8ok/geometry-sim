@@ -6,3 +6,4 @@ target/
 *.d
 obj/
 executables/
+geometry-sim

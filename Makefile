@@ -5,7 +5,7 @@ SRCS = src/main.c
 ASSETS = assets/
 
 # Output directories
-PROJECT_NAME = get_in_the_hole
+PROJECT_NAME = geometry-sim
 OUT_DIR = executables
 LINUX_DIR = $(OUT_DIR)/$(PROJECT_NAME)-linux
 LINUX_ZIP = $(OUT_DIR)/$(PROJECT_NAME)-linux.tar.gz
