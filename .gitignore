@@ -1,0 +1,8 @@
+target/
+*.so
+*.dll
+*.dylib
+*.o
+*.d
+obj/
+executables/
